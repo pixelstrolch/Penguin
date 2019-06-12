@@ -49,7 +49,10 @@ textarea {
 	vertical-align: top; /* Improves readability and alignment in all browsers */
 	width: 100%;
 }
+a:focus,
+input:focus,
 textarea:focus,
-input:focus {
-	outline: 0; // Disable Chromes outline style
+select:focus,
+button:focus {
+	outline-color: $color__primary;
 }

@@ -133,7 +133,11 @@ function penguin_customizer_styles() {
 	// outline color
 	Customizer_Library_Styles()->add( array(
 		'selectors' => array(
-			'a:focus'
+			'a:focus',
+			'input:focus',
+			'textarea:focus',
+			'select:focus',
+			'button:focus'
 		),
 		'declarations' => array(
 			'outline-color' => esc_html( $color )
