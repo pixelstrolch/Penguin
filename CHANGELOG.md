@@ -1,10 +1,11 @@
 # Change Log
 All notable changes to this project will be documented in this file. This project follows [Semantic Versioning](http://semver.org/).
 
-## [1.X.X]
+## [1.0.1] – 2019-06-13
 ### Fixed
 - site title link to home page
 - link underline without transition
+- Fix focus on form elements
 
 ## [1.0.0] - 2017-12-01
 ### Added
