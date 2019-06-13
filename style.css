@@ -1,10 +1,10 @@
 /*!
 Theme Name:  Penguin
-Theme URI:   https://wpzoo.ch/en/themes/penguin/
+Theme URI:   https://github.com/pixelstrolch/Penguin
 Description: Penguin is a clean and modern WordPress theme made by WPZOO. Besides the link color the used colors are monochromatic. The post thumbnail will be used as a big header image on single post pages as well as Pages. These theme characteristics make it possible to use Penguin for bloggin' as well as a magazin theme.
-Author:      WPZOO
-Author URI:  https://wpzoo.ch/en/
-Version:     1.0.0
+Author:      pixelstrolch
+Author URI:  https://www.pixelstrol.ch
+Version:     1.0.1
 Tags:        grid-layout, two-columns, three-columns, right-sidebar, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, blog, accessibility-ready
 Text Domain: penguin
 Domain Path: /languages
@@ -902,9 +902,12 @@ textarea {
 	width: 100%;
 }
 
+a:focus,
+input:focus,
 textarea:focus,
-input:focus {
-	outline: 0;
+select:focus,
+button:focus {
+	outline-color: #06c;
 }
 
 
@@ -1200,8 +1203,6 @@ a {
 	border-bottom: 1px solid;
 	color: #06c;
 	text-decoration: none;
-	-webkit-transition: all 0.2s ease-in-out;
-	transition: all 0.2s ease-in-out;
 }
 
 a:hover,
