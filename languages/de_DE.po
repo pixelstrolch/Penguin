@@ -1,0 +1,269 @@
+# Translation of Themes - Penguin in German
+# This file is distributed under the same license as the Themes - Penguin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-06 06:31:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Penguin\n"
+
+#. Description of the plugin/theme
+msgid "Penguin is a clean and modern WordPress theme made by WPZOO. Besides the link color the used colors are monochromatic. The post thumbnail will be used as a big header image on single post pages as well as Pages. These theme characteristics make it possible to use Penguin for bloggin' as well as a magazin theme."
+msgstr "Penguin ist ein simples und modernes WordPress Theme, kreiert von WPZOO. Nebst der Linkfarbe ist das Theme in verschiedenen Grautönen gestaltet. Das Beitragsbild wird auf Einzelbeitragseiten als grosses Header-Bild verwendet. Die Theme-Eigenschaften machen es möglich Penguin als Blog oder Magazin-Theme zu verwenden."
+
+#. Theme Name of the plugin/theme
+msgid "Penguin"
+msgstr "Penguin"
+
+#. Template Name of the plugin/theme
+msgid "Transparent Full Width"
+msgstr "Transparent und volle Breite"
+
+#. Template Name of the plugin/theme
+msgid "Full Width"
+msgstr "Volle Breite"
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/meta-bottom.php:16
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Beginne hier</a>."
+
+#: inc/extras-penguin.php:260
+msgid "About %s"
+msgstr "Über %s"
+
+#: inc/customizer-options.php:241
+msgid "Load Fluidvids.js for responsive videos"
+msgstr "Lade Fluidvids.js für responsive Videos"
+
+#: inc/customizer-options.php:223
+msgid "Minified CSS and JS"
+msgstr "Minimiertes CSS und JS"
+
+#: inc/customizer-options.php:206
+msgid "Advanced"
+msgstr "Erweitert"
+
+#: inc/customizer-options.php:186
+msgid "Custom footer text"
+msgstr "Eigener Footer Text"
+
+#: inc/customizer-options.php:169
+msgid "Add search box to primary menu"
+msgstr "Suchfeld dem Hauptmenü hinzufügen"
+
+#: inc/customizer-options.php:151
+msgid "The user description needs to be added before the box is displayed."
+msgstr "Die Benutzerbeschreibung muss hinzugefügt werden bevor die Infobox erscheinen kann."
+
+#: inc/customizer-options.php:150
+msgid "Author info box on single posts"
+msgstr "Autor Infobox auf Einzelbeitragsseiten"
+
+#: inc/customizer-options.php:131
+msgid "Sidebar layout"
+msgstr "Seitenleiste Layout"
+
+#: inc/customizer-options.php:86
+msgid "Link Color"
+msgstr "Linkfarbe"
+
+#: inc/customizer-options.php:68
+msgid "Brightness of navbar"
+msgstr "Helligkeit der Menüleiste"
+
+#: footer.php:18
+msgid "Secondary Navigation"
+msgstr "Sekundäre Navigation"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suche für:"
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Suche"
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suchen"
+
+#: template-parts/header-navigation.php:13
+msgid "Primary Navigation"
+msgstr "Hauptnavigation"
+
+#: template-parts/meta-bottom.php:7
+msgid "Categories icon"
+msgstr "Icon für Kategorien"
+
+#. translators: 1: title.
+#: comments.php:31
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Ein Gedanke zu &#8222;%1$s&#8220;"
+
+#: template-parts/the_content.php:5
+msgid "Pages:"
+msgstr "Seiten"
+
+#: template-parts/meta-top.php:15
+msgid "Edit"
+msgstr "﻿Bearbeiten"
+
+#: template-parts/meta-top.php:13
+msgid "% Comments"
+msgstr "﻿% Kommentare"
+
+#: template-parts/meta-top.php:13
+msgid "1 Comment"
+msgstr "﻿1 Kommentar"
+
+#: template-parts/meta-top.php:13
+msgid "Leave a comment"
+msgstr "Schreib einen Kommentar"
+
+#: template-parts/meta-bottom.php:21
+msgid "Tags icon"
+msgstr "Icon für Schlagwörter"
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/meta-bottom.php:3
+msgid ", "
+msgstr ", "
+
+#: header.php:15
+msgid "Skip to content"
+msgstr "Zum Inhalt"
+
+#: template-parts/header-navigation.php:37
+msgid "Menu"
+msgstr "Menu"
+
+#: template-parts/content-none.php:40
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es scheint, dass wir dir nicht weiterhelfen können. Möglicherweise hilft eine Suche?"
+
+#: template-parts/content-none.php:36
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, aber zu deinen Suchbegriffen wurde nichts passendes gefunden. Bitte versuche es mit anderen Begriffen noch einmal."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Nichts gefunden."
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Suchresultate für: %s"
+
+#: inc/extras-penguin.php:146
+msgid "Penguin WordPress Theme made by WPZOO"
+msgstr "Penguin WordPress Theme kreiert von WPZOO"
+
+#: inc/extras-penguin.php:133
+msgid "Scroll To Top"
+msgstr "Nach oben scrollen"
+
+#. translators: %s: Name of current post
+#: inc/extras-penguin.php:92
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/customizer-options.php:284
+msgid "Sidebar left"
+msgstr "Seitenleiste links"
+
+#: inc/customizer-options.php:283
+msgid "Sidebar right"
+msgstr "Seitenleiste rechts"
+
+#: inc/customizer-options.php:279
+msgid "Bright"
+msgstr "Hell"
+
+#: inc/customizer-options.php:278
+msgid "Dark"
+msgstr "Dunkel"
+
+#: inc/customizer-options.php:274
+msgid "Content (full post / custom more tag)"
+msgstr "Ganzer Beitrag / benutzerdefinierter Weiterlesen-Link"
+
+#: inc/customizer-options.php:273
+msgid "Excerpt (trimmed-down output)"
+msgstr "Auszug (gekürzte Ausgabe)"
+
+#: inc/customizer-options.php:112
+msgid "Content output of standard posts on home and archive pages."
+msgstr "Inhaltsausgabe der Standard-Beiträge für Blog- und Archivseiten."
+
+#: inc/customizer-options.php:95
+msgid "Content design"
+msgstr "Design der Inhalte"
+
+#: inc/customizer-options.php:48
+msgid "Upload your logo"
+msgstr "Lade dein Logo hoch"
+
+#: functions.php:160
+msgid "Penguin image size"
+msgstr "Penguin Bildgröße"
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr "Navigationsleiste"
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr "Footer-Menü"
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Die Kommentare sind geschloßen."
+
+#: comments.php:60
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:59
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:57
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Gedanke zu &#8222;%2$s&#8220;"
+msgstr[1] "%1$s Gedanken zu &#8222;%2$s&#8220;"
+
+#. Author URI of the plugin/theme
+msgid "https://wpzoo.ch/en/"
+msgstr "https://wpzoo.ch/de/"
+
+#. Author of the plugin/theme
+msgid "WPZOO"
+msgstr "WPZOO"
+
+#. Theme URI of the plugin/theme
+msgid "https://wpzoo.ch/en/themes/penguin/"
+msgstr "https://wpzoo.ch/de/themes/penguin/"
