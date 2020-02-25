@@ -1,0 +1,288 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Penguin\n"
+"POT-Creation-Date: 2020-02-25 13:02+0100\n"
+"PO-Revision-Date: 2020-02-25 13:02+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#. translators: 1: title.
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:59
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:60
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:18
+msgid "Secondary Navigation"
+msgstr ""
+
+#: functions.php:36
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:37
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:160
+msgid "Penguin image size"
+msgstr ""
+
+#: header.php:15
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer-options.php:48
+msgid "Upload your logo"
+msgstr ""
+
+#: inc/customizer-options.php:68
+msgid "Brightness of navbar"
+msgstr ""
+
+#: inc/customizer-options.php:86
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer-options.php:95
+msgid "Content design"
+msgstr ""
+
+#: inc/customizer-options.php:112
+msgid "Content output of standard posts on home and archive pages."
+msgstr ""
+
+#: inc/customizer-options.php:131
+msgid "Sidebar layout"
+msgstr ""
+
+#: inc/customizer-options.php:150
+msgid "Author info box on single posts"
+msgstr ""
+
+#: inc/customizer-options.php:151
+msgid "The user description needs to be added before the box is displayed."
+msgstr ""
+
+#: inc/customizer-options.php:169
+msgid "Add search box to primary menu"
+msgstr ""
+
+#: inc/customizer-options.php:186
+msgid "Custom footer text"
+msgstr ""
+
+#: inc/customizer-options.php:206
+msgid "Advanced"
+msgstr ""
+
+#: inc/customizer-options.php:223
+msgid "Minified CSS and JS"
+msgstr ""
+
+#: inc/customizer-options.php:241
+msgid "Load Fluidvids.js for responsive videos"
+msgstr ""
+
+#: inc/customizer-options.php:273
+msgid "Excerpt (trimmed-down output)"
+msgstr ""
+
+#: inc/customizer-options.php:274
+msgid "Content (full post / custom more tag)"
+msgstr ""
+
+#: inc/customizer-options.php:278
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer-options.php:279
+msgid "Bright"
+msgstr ""
+
+#: inc/customizer-options.php:283
+msgid "Sidebar right"
+msgstr ""
+
+#: inc/customizer-options.php:284
+msgid "Sidebar left"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/extras-penguin.php:92
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/extras-penguin.php:133
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/extras-penguin.php:146
+msgid "Penguin WordPress Theme made by WPZOO"
+msgstr ""
+
+#: inc/extras-penguin.php:260
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:15
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/header-navigation.php:13
+msgid "Primary Navigation"
+msgstr ""
+
+#: template-parts/header-navigation.php:37
+msgid "Menu"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/meta-bottom.php:3
+msgid ", "
+msgstr ""
+
+#: template-parts/meta-bottom.php:7
+msgid "Categories icon"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: template-parts/meta-bottom.php:16
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: template-parts/meta-bottom.php:21
+msgid "Tags icon"
+msgstr ""
+
+#: template-parts/meta-top.php:13
+msgid "Leave a comment"
+msgstr ""
+
+#: template-parts/meta-top.php:13
+msgid "1 Comment"
+msgstr ""
+
+#: template-parts/meta-top.php:13
+msgid "% Comments"
+msgstr ""
+
+#: template-parts/meta-top.php:15
+msgid "Edit"
+msgstr ""
+
+#: template-parts/the_content.php:5
+msgid "Pages:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Penguin"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/pixelstrolch/Penguin"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Penguin is a clean and modern WordPress theme made by WPZOO. Besides the "
+"link color the used colors are monochromatic. The post thumbnail will be "
+"used as a big header image on single post pages as well as Pages. These "
+"theme characteristics make it possible to use Penguin for bloggin' as well "
+"as a magazin theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "pixelstrolch"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.pixelstrol.ch"
+msgstr ""
