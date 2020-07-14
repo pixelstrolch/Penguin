@@ -1,5 +1,5 @@
 {
-	"name"        : "pixelstrolch/Penguin",
+	"name"        : "pixelstrolch/penguin",
 	"description" : "Penguin is a clean and modern WordPress theme made by WPZOO. Besides the link color the used colors are monochromatic. The post thumbnail will be used as a big header image on single post pages as well as Pages. These theme characteristics make it possible to use Penguin for bloggin' as well as a magazin theme.",
 	"keywords"    : ["wordpress", "theme", "penguin"],
 	"type"        : "wordpress-theme",
@@ -12,7 +12,7 @@
 		}
 	],
 	"support"     : {
-		"issues": "https://github.com/pixelstrolch/Penguin/issues"
+		"issues": "https://github.com/pixelstrolch/penguin/issues"
 	},
 	"require" : {
 		"php": ">=5.2"
